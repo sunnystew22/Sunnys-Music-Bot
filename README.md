@@ -1,3 +1,7 @@
+# WARNING!
+Please read this until the end as there is a node_modules.zip file that you have to extract so you get the full stuff. This is required as GitHub can't handle
+uploading 100 file at the same time.
+
 # Sunny's Music Bot
 
 A simple music bot written in discord.py using youtube-dl. Use this as an example or a base for your own bot and extend it as you want. 
@@ -44,4 +48,4 @@ Your bot should now be good to go, with near 100% uptime.
 # Is this bot open-source?
 Yes of course it is. You can download the source code off of the GitHub page. If you have Git installed on your system, open Git Bash on Windows or open Terminal on Linux. Then navigate to the directory you want to have the source code folder. Then type this command and wait until the process is finished.
 
-`$ git clone `
+`$ git clone https://github.com/sunnystew22/Sunnys-Music-Bot`
