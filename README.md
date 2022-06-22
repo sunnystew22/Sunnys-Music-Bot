@@ -49,3 +49,6 @@ Your bot should now be good to go, with near 100% uptime.
 Yes of course it is. You can download the source code off of the GitHub page. If you have Git installed on your system, open Git Bash on Windows or open Terminal on Linux. Then navigate to the directory you want to have the source code folder. Then type this command and wait until the process is finished.
 
 `$ git clone https://github.com/sunnystew22/Sunnys-Music-Bot`
+
+# Why isn't there a node_modules folder?
+There is a node_modules.zip file which you have to extract.
